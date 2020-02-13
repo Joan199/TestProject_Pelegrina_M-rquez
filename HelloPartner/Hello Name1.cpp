@@ -18,7 +18,7 @@ void Joan1() {
 
 int main() {
 	
-	int num = 3;
+	int num = 0;
 
 	std::cout << "Hello Joan";	
 
