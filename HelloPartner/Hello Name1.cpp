@@ -18,6 +18,8 @@ void Joan1() {
 
 int main() {
 	
+	int num = 0;
+
 	std::cout << "Hello Joan";	
 
 	return 0;
