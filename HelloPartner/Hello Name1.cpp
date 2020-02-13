@@ -1,5 +1,12 @@
 #include <iostream>
 
+void Ian() {
+
+	char letra;
+
+	std::cin >> letra;
+
+}
 
 
 void Joan1() {
