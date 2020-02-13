@@ -3,8 +3,8 @@
 
 int main() {
 	
-	std::cout << "Hello Ian!";	
+	std::cout << "Hello Joan";	
 
 
-	return 0;
+
 }
